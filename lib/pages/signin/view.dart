@@ -1,5 +1,8 @@
 import 'dart:html';
+<<<<<<< HEAD
 import 'dart:io' as io;
+=======
+>>>>>>> af256da2802142dec6aae8c48ccb4df2d27dafa8
 import 'package:flutter/material.dart';
 import 'package:myapp/pages/home/view.dart';
 import 'package:myapp/pages/registrationDone/view.dart';
